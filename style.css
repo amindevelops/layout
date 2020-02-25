@@ -1,4 +1,9 @@
-.win_dim {
-  height:200px;
-  width:100px;
+.item {
+  float: left;
+  min-width: 100px;
+  min-height: 100px;
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin: 20px
 }
