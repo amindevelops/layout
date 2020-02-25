@@ -1,0 +1,27 @@
+.susan {
+  color: red;
+}
+
+#dave {
+  color: blue;
+}
+
+.susan:nth-child(2) {
+  color: green;// !important;
+}
+
+
+/*
+
+1. Has it been linked correctly?
+- is it even available and known
+2. Has it been targeted correctly?
+- correct selector e.g. .class #id
+3. Has it been overridden?
+- overrides e.g. !important
+
+*/
+
+
+
+
